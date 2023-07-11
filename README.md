@@ -9,7 +9,7 @@ r2d2_v1
 *Node maior ou igual a v18.16.0*
 *Pupeteer *
 
-### Unordered
+### Lista
 
 * Visual Studio Code
 * npm install
