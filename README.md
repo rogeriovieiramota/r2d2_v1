@@ -5,6 +5,8 @@
 r2d2_v1
 ```
 
+Fonte: de estudo da própria internet
+
 *Artefatos: Visual Studio Code*
 *Node maior ou igual a v18.16.0*
 *Pupeteer *
@@ -14,3 +16,5 @@ r2d2_v1
 * Visual Studio Code
 * npm install
 * node index.js
+
+  
